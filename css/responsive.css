@@ -1,0 +1,80 @@
+@media screen and (max-width: 900px){
+   header{
+       flex-direction: column;
+       width: 100vw;
+   }
+   header a {
+       background-color: turquoise;
+       margin: 5px;
+       padding: 12px;
+       text-align: center;
+   }
+
+   .pro{
+        position: absolute;
+        top: -15px;
+        left: 298px;
+        width: 44px;
+   }
+
+    .navsrn{
+        color: white;
+        padding: 10px;
+        width: 90%;
+    }
+
+    .colam{
+        margin-left: 13px;
+        float: left;
+        width: 92%;
+    }
+    .let{
+        float: left;
+        width: 92%;
+    }
+    
+
+
+
+
+    @media screen and (max-width: 400px){
+    img{
+        margin: 20px;
+        border: 1px solid rgb(226, 43, 43);
+        border-radius: 10px;
+        width: 60vw;
+      }
+      .footer a{
+        text-decoration: none;
+        color: white;
+        text-align: center;
+        border: 1px solid rebeccapurple;
+        margin: 5px;
+        padding: 3px;
+        font-size: 15px;
+      }
+    }
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+    

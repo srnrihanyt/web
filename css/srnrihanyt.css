@@ -1,0 +1,130 @@
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+body {
+  background-color: rgba(255, 255, 255,);
+}
+header{
+  background-color:rgb(47, 47, 240);
+  display: flex;
+  justify-content: flex-end;
+}
+
+header a{
+  text-decoration: none;
+  padding: 20px;
+  color: white;
+  font-size: 20px;
+}
+header a:hover{
+  background-color: teal;
+  border-radius: 5px;
+}
+.head{
+  position: absolute;
+  left: 10px;
+  top: 20px;
+  color: white;
+}
+.colam{
+  float: left;
+  width: 30%;
+  height: 50%;
+  padding: 10px;
+  border: 2px solid blue;
+  margin: 20px 20px;
+}
+
+h1{
+  text-align: center;
+}
+
+img{
+  margin: 30px;
+  border: 1px solid rgb(226, 43, 43);
+  border-radius: 10px;
+}
+
+
+
+
+tr{
+    margin: 15px;
+}
+iframe {
+  border-radius: 10px;
+}
+.let{
+    border-spacing: 15px;
+}
+
+footer{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  width: 100vw;
+  background-color:rgb(47, 47, 240);
+  color: white;
+  text-align: center;
+}
+.foot{
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
+.more{
+  right: 5px;
+  width: 170px;
+
+}
+.footer{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+  width: 100vw;
+  background-color:rgb(47, 47, 240);
+  color: white;
+  text-align: center;
+}
+.footer a{
+  text-decoration: none;
+  color: white;
+  text-align: center;
+  border: 1px solid rebeccapurple;
+  margin: 5px;
+  padding: 20px;
+  font-size: 20px;
+}
+.footer a:hover{
+  background-color: teal;
+  border-radius: 5px; 
+}
+
+
+.footer-last{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  width: 100vw;
+  background-color:rgb(47, 47, 240);
+  color: white;
+  text-align: center;
+}
+
+.pro{
+  position: absolute;
+width: 58px;
+top: -27px;
+left: -18px;
+border-radius: 39px;
+}
+
+
+
+
+
